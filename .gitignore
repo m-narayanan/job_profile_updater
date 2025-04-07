@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+*.log
+*.png # If you add screenshot capability
+
+# Selenium/WebDriver cache
+.wdm/
