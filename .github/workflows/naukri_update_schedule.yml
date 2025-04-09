@@ -10,7 +10,7 @@ on:
     # Minute Hour Day(month) Month Day(week)
     # Adjust '9' if your 9 AM is different from UTC (e.g., '14' for 9 AM EST)
     # Use https://crontab.guru/ to verify your cron schedule.
-    - cron: '0 9 * * *'
+    - cron: '30 3 * * *'
 
   # Allows you to manually run this workflow from the Actions tab on GitHub.
   # Useful for testing without waiting for the schedule.
